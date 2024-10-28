@@ -1,0 +1,83 @@
+[
+    {
+      "id": "T001",
+      "size": "Small",
+      "tempRange": "-14°C to -25°C",
+      "pickupLocation": "New York",
+      "dropLocation": "Los Angeles",
+      "vehicleType": "Frozen"
+    },
+    {
+      "id": "T002",
+      "size": "Medium",
+      "tempRange": "+5°C to -20°C",
+      "pickupLocation": "New York",
+      "dropLocation": "Chicago",
+      "vehicleType": "Chiller"
+    },
+    {
+      "id": "T003",
+      "size": "Large",
+      "tempRange": "Dry",
+      "pickupLocation": "San Francisco",
+      "dropLocation": "Houston",
+      "vehicleType": "Dry"
+    },
+    {
+      "id": "T004",
+      "size": "Small",
+      "tempRange": "-14°C to -25°C",
+      "pickupLocation": "Chicago",
+      "dropLocation": "Miami",
+      "vehicleType": "Frozen"
+    },
+    {
+      "id": "T005",
+      "size": "Medium",
+      "tempRange": "+5°C to -20°C",
+      "pickupLocation": "Los Angeles",
+      "dropLocation": "Seattle",
+      "vehicleType": "Chiller"
+    },
+    {
+      "id": "T006",
+      "size": "Large",
+      "tempRange": "Dry",
+      "pickupLocation": "New York",
+      "dropLocation": "Dallas",
+      "vehicleType": "Dry"
+    },
+    {
+      "id": "T007",
+      "size": "Small",
+      "tempRange": "-14°C to -25°C",
+      "pickupLocation": "Miami",
+      "dropLocation": "Boston",
+      "vehicleType": "Frozen"
+    },
+    {
+      "id": "T008",
+      "size": "Medium",
+      "tempRange": "+5°C to -20°C",
+      "pickupLocation": "Houston",
+      "dropLocation": "San Francisco",
+      "vehicleType": "Chiller"
+    },
+    {
+      "id": "T009",
+      "size": "Large",
+      "tempRange": "Dry",
+      "pickupLocation": "Boston",
+      "dropLocation": "Los Angeles",
+      "vehicleType": "Dry"
+    },
+    {
+      "id": "T010",
+      "size": "Small",
+      "tempRange": "-14°C to -25°C",
+      "pickupLocation": "Seattle",
+      "dropLocation": "New York",
+      "vehicleType": "Frozen"
+    }
+  ]
+  
